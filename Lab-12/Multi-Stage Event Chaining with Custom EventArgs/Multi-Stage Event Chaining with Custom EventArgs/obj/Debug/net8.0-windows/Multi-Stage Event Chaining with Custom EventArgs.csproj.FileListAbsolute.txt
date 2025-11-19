@@ -1,0 +1,6 @@
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\MultiStageEventChainingwithCustomEventArgs.ShipEventArgs.resources
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\Multi-Stage Event Chaining with Custom EventArgs.csproj.GenerateResource.cache
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\Multi-Stage Event Chaining with Custom EventArgs.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\Multi-Stage Event Chaining with Custom EventArgs.AssemblyInfoInputs.cache
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\Multi-Stage Event Chaining with Custom EventArgs.AssemblyInfo.cs
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\Multi-Stage Event Chaining with Custom EventArgs.csproj.CoreCompileInputs.cache

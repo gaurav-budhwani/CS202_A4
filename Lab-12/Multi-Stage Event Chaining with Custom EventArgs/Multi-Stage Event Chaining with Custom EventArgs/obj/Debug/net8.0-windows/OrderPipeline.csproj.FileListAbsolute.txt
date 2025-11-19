@@ -1,0 +1,16 @@
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.csproj.GenerateResource.cache
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.AssemblyInfoInputs.cache
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.AssemblyInfo.cs
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.csproj.CoreCompileInputs.cache
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\bin\Debug\net8.0-windows\OrderPipeline.exe
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\bin\Debug\net8.0-windows\OrderPipeline.deps.json
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\bin\Debug\net8.0-windows\OrderPipeline.runtimeconfig.json
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\bin\Debug\net8.0-windows\OrderPipeline.dll
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\bin\Debug\net8.0-windows\OrderPipeline.pdb
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\Multi_Stage_Event_Chaining_with_Custom_EventArgs.ShipEventArgs.resources
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.dll
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\refint\OrderPipeline.dll
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.pdb
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\OrderPipeline.genruntimeconfig.cache
+D:\STT\Lab-12\Multi-Stage Event Chaining with Custom EventArgs\Multi-Stage Event Chaining with Custom EventArgs\obj\Debug\net8.0-windows\ref\OrderPipeline.dll
