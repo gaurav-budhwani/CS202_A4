@@ -1,0 +1,14 @@
+D:\STT\OutputReasoning\OutputReasoning\bin\Debug\net8.0\OutputReasoning.exe
+D:\STT\OutputReasoning\OutputReasoning\bin\Debug\net8.0\OutputReasoning.deps.json
+D:\STT\OutputReasoning\OutputReasoning\bin\Debug\net8.0\OutputReasoning.runtimeconfig.json
+D:\STT\OutputReasoning\OutputReasoning\bin\Debug\net8.0\OutputReasoning.dll
+D:\STT\OutputReasoning\OutputReasoning\bin\Debug\net8.0\OutputReasoning.pdb
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.AssemblyInfoInputs.cache
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.AssemblyInfo.cs
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.csproj.CoreCompileInputs.cache
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.dll
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\refint\OutputReasoning.dll
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.pdb
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\OutputReasoning.genruntimeconfig.cache
+D:\STT\OutputReasoning\OutputReasoning\obj\Debug\net8.0\ref\OutputReasoning.dll

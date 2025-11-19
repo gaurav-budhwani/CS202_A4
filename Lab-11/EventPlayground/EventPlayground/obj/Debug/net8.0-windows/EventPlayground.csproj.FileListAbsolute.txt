@@ -1,0 +1,16 @@
+D:\STT\EventPlayground\EventPlayground\bin\Debug\net8.0-windows\EventPlayground.exe
+D:\STT\EventPlayground\EventPlayground\bin\Debug\net8.0-windows\EventPlayground.deps.json
+D:\STT\EventPlayground\EventPlayground\bin\Debug\net8.0-windows\EventPlayground.runtimeconfig.json
+D:\STT\EventPlayground\EventPlayground\bin\Debug\net8.0-windows\EventPlayground.dll
+D:\STT\EventPlayground\EventPlayground\bin\Debug\net8.0-windows\EventPlayground.pdb
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.Form1.resources
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.csproj.GenerateResource.cache
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.GeneratedMSBuildEditorConfig.editorconfig
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.AssemblyInfoInputs.cache
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.AssemblyInfo.cs
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.csproj.CoreCompileInputs.cache
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.dll
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\refint\EventPlayground.dll
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.pdb
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\EventPlayground.genruntimeconfig.cache
+D:\STT\EventPlayground\EventPlayground\obj\Debug\net8.0-windows\ref\EventPlayground.dll
